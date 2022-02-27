@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from the Right Honourable, the Lord Major, aldermen, and commons of the City of London, presented to His Excelleney [sic] Sir Thomas Fairfax, in behalfe of the whole city ingenerall [sic]; concerning the present marching in of the army under his Excellencies command. Also, the gallant answer of His Excellency Sir Thomas Fairfax, touching the Honourable City of London. Likewise the articles of the treaty, agreed upon betwixt the city and the armie.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82091</idno>
+            <idno type="STC">Wing D596</idno>
+            <idno type="STC">Thomason E401_11</idno>
+            <idno type="STC">ESTC R201777</idno>
+            <idno type="EEBO-CITATION">99862277</idno>
+            <idno type="PROQUEST">99862277</idno>
+            <idno type="VID">114430</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82091)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114430)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from the Right Honourable, the Lord Major, aldermen, and commons of the City of London, presented to His Excelleney [sic] Sir Thomas Fairfax, in behalfe of the whole city ingenerall [sic]; concerning the present marching in of the army under his Excellencies command. Also, the gallant answer of His Excellency Sir Thomas Fairfax, touching the Honourable City of London. Likewise the articles of the treaty, agreed upon betwixt the city and the armie.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Richard Hatfield,</publisher>
+                  <pubPlace>Imprinted at London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "Aug: 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114430:1" rendition="simple:additions"/>
+            <p>A DECLARATION FROM The Right Honourable, the Lord Major, Aldermen, and Commons of the City of LONDON, Preſented to His Excellency Sir Thomas Fairfax, IN Behalfe of the whole City ingenerall; concerning the preſent marching in of the Army under his Excellencies Command. <hi>ALSO,</hi> The gallant Anſwer of His Excellency Sir <hi>Thomas Fairfax,</hi> touching the Honourable City of <hi>LONDON.</hi> Likewiſe the Articles of the Treaty, agreed upon betwixt the CITY and the ARMIE.</p>
+            <p>Imprinted at <hi>London,</hi> for <hi>Richard Hatfield,</hi> 1647.</p>
+            <pb facs="tcp:114430:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:114430:2"/>
+            <head>ARTICLES OF THE TREATY AGREED Upon betwixt His Excellency Sir <hi>Thomas Fairfax,</hi> and the Commiſſioners for the City of <hi>London.</hi>
+            </head>
+            <p>HIs Excellency Sir <hi>Thomas Fairfax,</hi> be<g ref="char:EOLhyphen"/>ing advanced neer the City of <hi>London,</hi> with a gallant and puiſſant Army, occaſio<g ref="char:EOLhyphen"/>ned by the late diſturbances, and tumultu<g ref="char:EOLhyphen"/>ous Riſings of divers diſ-affected perſons within this City, ſent ſeverall Meſſages to the Lord Mayor, Aldermen, and Common-Councell, for a ſpeedy compoſall of all
+<pb facs="tcp:114430:3"/>things in love, for the preſervation and ſafe<g ref="char:EOLhyphen"/>ty of this famous City, and for the prevent<g ref="char:EOLhyphen"/>ing of a ſecond Warre.</p>
+            <p>Whereupon the Right Honourable the Lord Major, together with the Aldermen, and Common-councell of the ſaid City, ſe<g ref="char:EOLhyphen"/>riouſly conſulting and debating thereupon, after ſome time ſpent in debate thereof, re<g ref="char:EOLhyphen"/>ſolved to ſend Commiſſioners to his Excel<g ref="char:EOLhyphen"/>lency, to treat with him, and his Councell of Warre, which was accordingly done, and the ſaid Commiſſioners diſpatched away, inſomuch that there began a happy treaty, and after two or three dayes ſpent in con<g ref="char:EOLhyphen"/>ſultation concerning the great and weighty affaires of the Kingdom, the fourth day pro<g ref="char:EOLhyphen"/>duced happy tydings of a peace, all things being agreed upon betwixt the City and the Army, which Agreement, or Articles, ware to this effect, <hi>viz.</hi>
+            </p>
+            <p n="1">1. That the Forces and Ordnance bee forthwith drawn off from the Fortificati<g ref="char:EOLhyphen"/>ons and Bulwarks about the Lines of Com<g ref="char:EOLhyphen"/>munication.</p>
+            <p n="2">2. That a ſpeedy courſe may be taken for
+<pb facs="tcp:114430:3"/>the quitting of all Forts on Southwark ſide, which are not as yet in the poſſeſſion of the Forces under command of his Excellen<g ref="char:EOLhyphen"/>cie.</p>
+            <p n="3">3. That Giles Fort, the two Forts at Foxe-Hall, and the reſt of the Forts down to the Water ſide, be ſurrendred to his Excellency Sir <hi>Thomas Fairfax,</hi> or any other whom hee ſhall pleaſe to appoint.</p>
+            <p>All which particulars were agreed upon, and aſſented to by the Right Honorable the Lord Mayor of <hi>London,</hi> as appeares by the enſuing Declaration (or Meſſage) ſent from his Lordſhip to his Excellency.</p>
+            <div type="declaration">
+               <head>A Copy of the ſaid Declaration followeth:</head>
+               <p>Whereas, wee underſtand your Excellencies and your Honourable Councell of Warre, their expectation to be poſſeſſed of all Forts from Giles Fort, and that to be one, downe unto the River ſide by ſix of the clocke this Evening. And we take no<g ref="char:EOLhyphen"/>tice for what reaſons your Excellency is led to in<g ref="char:EOLhyphen"/>ſiſt thereupon.</p>
+               <p>For our parts, that we may manifeſt how ready we are to comply with all things which may beget a good underſtanding, wee have readily conſented thereunto, as far as the Cognizance thereof belongs to this Court, and have given directions accordingly
+<pb facs="tcp:114430:4"/>to the Committee of the <hi>Militia,</hi> for drawing off all Forces and Ordnance; unto which work they do now inſtantly apply themſelvs, and we are confident your Excellency will find performance accordingly. The Committee of <hi>Militia</hi> will alſo give Order for quit<g ref="char:EOLhyphen"/>ting ſuch Forts on Southwark ſide, as are not as yet in poſſeſſion of your Forces.</p>
+               <p>And now next unto Almighty God we doe rely up<g ref="char:EOLhyphen"/>on your Excellencies honourable word for our ſafe<g ref="char:EOLhyphen"/>ty, and to be protected from all violence of the Soul<g ref="char:EOLhyphen"/>diery.</p>
+            </div>
+            <div type="answer">
+               <head>The Anſwer of his Excellency Sir <hi>Thomas Fairfax,</hi> to the aforeſaid Declaration.</head>
+               <opener>
+                  <salute>My Lord and Gentlemen,</salute>
+               </opener>
+               <p>I Am very glad to finde ſo ready a com<g ref="char:EOLhyphen"/>plyance in anſwer to my laſt deſire ſent to the Common Councell, and have accor<g ref="char:EOLhyphen"/>dingly given Order for three Regiments of Foot, and two of Horſe, to poſſeſſe thoſe Forts you mention in your laſt, and to lye thereabouts; I am with the reſt of the Ar<g ref="char:EOLhyphen"/>my marched up to Hammerſmith, in order to the ſecurity of the Lords and Commons, who I ſuppoſe will to morrow ſit in parla<g ref="char:EOLhyphen"/>ment, the preſerving of their priviledges, and ſecuring them from violence, that with freedome they may ſit to diſcharge their
+<pb facs="tcp:114430:4"/>truſts, hath beene the cauſe of my neere ap<g ref="char:EOLhyphen"/>proach to your City. And whereas you are pleaſed to expreſſe your hopes of preſerva<g ref="char:EOLhyphen"/>tion from violence, you may be confident nothing ſhall paſſe from this army, but what ſhall be for the ſafety of your City, and <hi>I</hi> doubt not, though ſome diſaffected perſons to the peace of this Kingdome have endeavoured to beget a miſunderſtanding betweene this army and the City, hoping thereby to embroyle this Kingdom in new troubles; yet that this army will alwayes ſo behave themſelves as to witneſſe to the world the integrity of their hearts, in ha<g ref="char:EOLhyphen"/>ving no other deſign, but the quiet and hap<g ref="char:EOLhyphen"/>py ſettlement of a firme and laſting peace, wherein both the whole Kingdom, and your City in particular, will have cauſe to re<g ref="char:EOLhyphen"/>joyce in the goodneſſe of God; the accom<g ref="char:EOLhyphen"/>pliſhment whereof, will truly glad the hearts of this army, and in particular, of</p>
+               <closer>
+                  <signed>
+                     <hi>Your moſt humble Servant,</hi> Thomas Fairfax.</signed>
+               </closer>
+            </div>
+            <div type="account">
+               <pb facs="tcp:114430:5"/>
+               <p>His Excellency Sir <hi>T. Fairfax</hi> his Forces entred the Weſt parts of the city; &amp; at the time of their coming to the Forts a Declaration was publiſhed in the city to this purpoſe.</p>
+               <p>That the late pernitious Engagement ſet on foot in the ci<g ref="char:EOLhyphen"/>ty, &amp; much more the prodigious violence done to both hou<g ref="char:EOLhyphen"/>ſes of Parl. rendred their former way of treaty meerly vain &amp; hopeleſſe, till the Parl. be vind cated &amp; reſtored to a con<g ref="char:EOLhyphen"/>dition of freedom: they therefore thought good to make a publike tender of the heads of certain Propoſals.</p>
+               <p n="1">That the things hereafter propoſed being provided for by this Parl.) a certain time may be ſet for the ending of this Parl. That a Biennial parl may be called, each bienniall Parl to ſit 120 dayes, and afterwards to be adjorned by the King and no Parl. to ſit above 240 dayes. That liberty be gi<g ref="char:EOLhyphen"/>ven to members to enter their diſſenting voices in the houſe &amp; judiciall power cleered the right and liberty of the <hi>Com<g ref="char:EOLhyphen"/>mons</hi> of <hi>England</hi> cleered, and no judgment againſt them by the Peers, without the concurrence of the Commons. That the <hi>Militia</hi> both by Sea &amp; Land for ten yeares be diſpoſed by the Parl. no perſon that hath bin in hoſtility againſt the Parl. ſhall bear any Office during 5 yeares. That an Act bee made for reſtraining of Peeres made ſince the 21. of <hi>May,</hi> 1642. An Act for making voyd all Declarations againſt the Parl. making void all Grants, conſiring the treaty with Scotland. That the way may be cleer for petitions, the Ex<g ref="char:EOLhyphen"/>ciſe taken off in convenient time, the rules and courſe of Law reduced &amp; reformed, &amp; none inforced to anſwer to ac<g ref="char:EOLhyphen"/>cuſe themſelves, &amp;c. The large power of Committees taken away, and proviſion made for payment of the Arrears of all that have ſerved the State. Its ſaid all that is due this way comes to 1100000. l. but that it is deſired, that this ſumme ſhould bee raiſed onely out of a generall taxe through the City, is not true.</p>
+            </div>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
